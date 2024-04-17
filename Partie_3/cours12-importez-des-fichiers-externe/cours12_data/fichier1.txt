@@ -1,0 +1,5 @@
+"age";"sexe";"taille";"poids"
+"Koffi";21;"M";172;80
+"Aya";22;"M";185;85
+"Adja";20;"F";179;75
+"Kouassi";22;"F";165;69
