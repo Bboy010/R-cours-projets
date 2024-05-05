@@ -2,7 +2,7 @@
 Ce repository contient une formation complete en l'utilisation du logiciel R et RStudio pour l'analyse et la visualisation de donnees
 # Avant propos
 Si vous débutez en R & RStudio trouvez le cours d’introduction [ici](https://youtube.com/playlist?list=PLnQ1XuDe5e1gw7E-c5tZaTLgnO27Ri1Ho&si=JiUikSXRrsj1xkIM)
-[# Partie 1](/Partie_1)
+# [Partie 1](/Partie_1)
 ## Cours0-installation-et-configuration-R
 ## Cours1_les-vecteurs
 ## Cours3_les-facteurs
