@@ -3,9 +3,9 @@ Ce repository contient une formation complete en l'utilisation du logiciel R et 
 # Avant propos
 Si vous débutez en R & RStudio trouvez le cours d’introduction [ici](https://youtube.com/playlist?list=PLnQ1XuDe5e1gw7E-c5tZaTLgnO27Ri1Ho&si=JiUikSXRrsj1xkIM)
 # [Partie 1](/Partie_1)
-## [Cours0-installation-et-configuration-R](Partie_1/cours1_les-différents-types-d-objets-en-R)
-## [Cours1_les-vecteurs](Partie_1/cours1_les-vecteurs)
-## [Cours3_les-facteurs](Partie_1/cours2_les-facteurs)
+## [Cours1_les-différents-types-d-objets-en-R](Partie_1/cours1_les-différents-types-d-objets-en-R)
+## [Cours2_les-vecteurs](Partie_1/cours2_les-vecteurs)
+## [Cours3_les-facteurs](Partie_1/cours3_les-facteurs)
 ## [Cours4_les-matrices](Partie_1/cours4_les-matrices)
 ## [Cours5_listes](Partie_1/cours5_listes)
 ## [Cours6_dataframe](Partie_1/cours6_dataframe)
