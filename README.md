@@ -9,7 +9,7 @@ Si vous débutez en R & RStudio trouvez le cours d’introduction [ici](https://
 ## [Cours4_les-matrices](Partie_1/cours4_les-matrices)
 ## [Cours5_listes](Partie_1/cours5_listes)
 ## [Cours6_dataframe](Partie_1/cours6_dataframe)
-## [Entrainement]((Partie_1/Entrainement)
+## [Entrainement](Partie_1/Entrainement)
 ## Introduction-a-quarto
 ---
 # [Partie 2](/Partie_2)
@@ -20,12 +20,12 @@ Si vous débutez en R & RStudio trouvez le cours d’introduction [ici](https://
 ## [Entrainement](Partie_2/Entrainement)
 ---
 # [Partie_3](/Partie_3)
-## [Cours12-importez-des-fichiers-externe](Partie_3/Cours12-importez-des-fichiers-externe)
-## [Cours13_exportez-vos-realisations](Partie_3/Cours13_exportez-vos-realisations)
-## [Cours14_concatenez-des-tableaux-de-donnees](Partie_3/Cours14_concatenez-des-tableaux-de-donnees)
-## [Cours15_generez-des-nombres-aleatoires](Partie_3/Cours15_generez-des-nombres-aleatoires)
-## [Cours16_localiser-les-donnees-manquantes](Partie_3/Cours16_localiser-les-donnees-manquantes)
-## [Cours17_utilisez-les-fonctions-specifique-a-l-analyse-de-donnees](Partie_3/Cours17_utilisez-les-fonctions-specifique-a-l-analyse-de-donnees)
+## [Cours12-importez-des-fichiers-externe](Partie_3/cours12-importez-des-fichiers-externe)
+## [Cours13_exportez-vos-realisations](Partie_3/cours13_exportez-vos-realisations)
+## [Cours14_concatenez-des-tableaux-de-donnees](Partie_3/cours14_concatenez-des-tableaux-de-donnees)
+## [Cours15_generez-des-nombres-aleatoires](Partie_3/cours15_generez-des-nombres-aleatoires)
+## [Cours16_localiser-les-donnees-manquantes](Partie_3/cours16_localiser-les-donnees-manquantes)
+## [Cours17_utilisez-les-fonctions-specifique-a-l-analyse-de-donnees](Partie_3/cours17_utilisez-les-fonctions-specifique-a-l-analyse-de-donnees)
 ## [Entrainement](Partie_3/Entrainement)
 ---
 # 😎Section Projets 😎
